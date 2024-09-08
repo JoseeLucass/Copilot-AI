@@ -5,7 +5,7 @@
 Este projeto avaliou a usabilidade de um site utilizando o Copilot. O objetivo foi identificar pontos positivos e negativos na experiência do usuário.
 
 ## Ferramentas Utilizadas
-
+ 
 - **Copilot**: Auxiliou na análise da usabilidade, sugerindo melhorias e identificando aspectos positivos e negativos do site.
 
 ## Metodologia
