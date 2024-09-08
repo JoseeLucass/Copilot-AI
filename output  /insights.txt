@@ -6,3 +6,4 @@ Pontos Negativos:
 Tamanho do Texto: O texto é relativamente pequeno, o que pode dificultar a leitura para alguns usuários, especialmente em dispositivos móveis.
 Informações Limitadas: As telas iniciais fornecem informações básicas, mas não detalham o que exatamente o usuário encontrará ao clicar nos botões. Isso pode gerar incerteza. 
 Acessibilidade: Não há indicações claras sobre acessibilidade, como opções de aumento de texto ou suporte para leitores de tela, o que pode excluir usuários com necessidades especiais.
+
